@@ -23,7 +23,6 @@ lerna-debug.log*
 .eslintcache
 
 # Distribution
-dist
 
 # Link config
 link.config.json
